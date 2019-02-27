@@ -1,0 +1,168 @@
+th {
+	color : #000000;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+}
+input {
+	color : #000000;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.px {
+	padding-top : 0px;
+	padding-bottom : 0px;
+	padding-left : 0px;
+	padding-right : 0px;
+	margin-top : 2px;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+}
+.px5 {
+	padding-top : 0px;
+	padding-bottom : 0px;
+	padding-left : 0px;
+	padding-right : 0px;
+	margin-top : 5px;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+}
+.titlew {
+	color : #FFFFFF;
+	margin-top : 10px;
+	padding-bottom : 0px;
+	margin-bottom : 10px;
+	margin-left : 15px;
+	margin-right : 10px;
+	font-size : 12px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.titleb {
+	color : #000000;
+	margin-top : 7px;
+	padding-bottom : 0px;
+	margin-bottom : 0px;
+	margin-left : 25px;
+	margin-right : 10px;
+	font-size : 12px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.title {
+	color : #FF7800;
+	margin-top : 10px;
+	padding-bottom : 20px;
+	margin-bottom : 0px;
+	margin-left : 5px;
+	margin-right : 5px;
+	font-size : 15px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.t01 {
+	color : #000000;
+	margin-top : 5px;
+	padding-bottom : 10px;
+	margin-bottom : 0px;
+	margin-left : 10px;
+	margin-right : 10px;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.t01 a {
+	color : #EF6D00;
+}
+.t01 a:hover {
+	color : #C25A02;
+}
+.list {
+	color : #FFFFFF;
+	margin-top : 3px;
+	padding-bottom : 3px;
+	margin-bottom : 0px;
+	margin-left : 10px;
+	margin-right : 10px;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.right {
+	color : #FFFFFF;
+	margin-top : 5px;
+	padding-bottom : 10px;
+	margin-bottom : 0px;
+	margin-left : 10px;
+	margin-right : 10px;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.right a, .list a {
+	color : #FFFFFF;
+}
+.right a:hover {
+	color : #AAAAAA;
+}
+.left {
+	color : #000000;
+	margin-top : 10px;
+	padding-bottom : 5px;
+	margin-bottom : 0px;
+	margin-left : 70px;
+	margin-right : 10px;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.left b {
+	color : #FFFFFF;
+}
+.left a {
+	color : #FF6600;
+}
+.left a:hover {
+	color : #FF0000;
+}
+p {
+	color : #000000;
+	margin-top : 5px;
+	padding-bottom : 10px;
+	margin-bottom : 0px;
+	margin-left : 10px;
+	margin-right : 10px;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+}
+p a {
+	color : #000000;
+	font-weight: bold;
+}
+p a:hover {
+	color : #294A7B;
+}
+.menu, .menu_bot  {
+	color : #595959;
+	margin-top : 10px;
+	padding-bottom : 10px;
+	margin-bottom : 0px;
+	margin-left : 10px;
+	margin-right : 10px;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.menu a {
+	color : #595959;
+	text-decoration: none;
+}
+.menu_bot a {
+	color : #000000;
+	text-decoration: none;
+}
+.menu a:hover {
+	color : #000000;
+}

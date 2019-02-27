@@ -1,0 +1,83 @@
+﻿body
+{
+	font-size: 8pt;
+	color: black;
+	font-family: Tahoma;
+	direction: rtl;
+	background-image: url(images/BG.GIF);
+	background-color: #ffffff;
+	margin: 0px;
+}
+.btn_stl
+{
+	font-family: Tahoma;
+	font-size: 12px;
+	width: 65px;
+	font-weight: normal;
+	color: black;
+	background-color: #ffcc66;
+	border-right: black 1px solid;
+	border-top: black 1px solid;
+	border-left: black 1px solid;
+	border-bottom: black 1px solid;
+	direction: rtl;
+} 
+.txt_stl
+{
+	font-family: Tahoma;
+	font-size: 12px;
+	border-right: black 1px solid;
+	border-top: black 1px solid;
+	border-left: black 1px solid;
+	border-bottom: black 1px solid;
+	direction: rtl;
+}
+.txt_er
+{
+	color: red;
+}	
+.td_txt_cnt
+{
+	background-color: #b9e0ee;
+	height: 25px;
+}
+.td_none
+{
+	background-color: #cccccc;
+	height: 25px;
+	
+}
+.tbl_asli
+{
+	direction: rtl;
+	width: 780px;
+}
+.data_drd
+{
+	font-size: 10pt;
+	font-family: tahoma;
+}
+.btn_stl_pnl
+{
+	font-family: Tahoma;
+	font-size: 12px;
+	width: 155px;
+	font-weight: normal;
+	color: white;
+	background-color: tomato;
+	border-right: white 1px solid;
+	border-top: white 1px solid;
+	border-left: white 1px solid;
+	border-bottom: white 1px solid;
+	direction: rtl;
+} 
+.tbl_asli_op
+{
+	direction: rtl;
+	width: 500px;
+}
+.tbl_asli_top
+{
+	background-image: url(images/FON_TOP.JPG);
+	height: 82px;
+}
